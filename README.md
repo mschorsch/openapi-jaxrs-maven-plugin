@@ -7,7 +7,7 @@ This plugin generates a swagger file from JAX-RS resource annotations.
     <plugins>
         <plugin>
             <groupId>com.github.mschorsch.plugins</groupId>
-            <artifactId>swagger-jaxrs-maven-plugin</artifactId>
+            <artifactId>openapi2-jaxrs-maven-plugin</artifactId>
             <version>1.0-SNAPSHOT</version>
             <configuration>
                 <info>
